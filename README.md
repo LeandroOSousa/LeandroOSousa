@@ -1,6 +1,7 @@
 ---
-# Leandro de Oliveira Sousa
+# Olá, meu nome é Leandro 👋
 
+### Sobre mim
 Formado em Análise e Desenvolvimento de Sistemas e Letras Português/Inglês pela FAM, sou motivado por desafios e crescimento na área de desenvolvimento de sistemas. Destaco-me pela rápida capacidade de aprendizado, determinação e resiliência. Estou ansioso para novas oportunidades, para aprender com profissionais experientes e para evoluir constantemente na minha carreira, impulsionado pela minha paixão por tecnologia e desejo de conhecimento.
 
 ### Conecte-se comigo
