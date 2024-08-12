@@ -2,7 +2,7 @@
 # Olá, meu nome é Leandro 👋
 
 ### Sobre mim
-Formado em Análise e Desenvolvimento de Sistemas e Letras Português/Inglês pela FAM, sou motivado por desafios e crescimento na área de desenvolvimento de sistemas. Destaco-me pela rápida capacidade de aprendizado, determinação e resiliência. Estou ansioso para novas oportunidades, aprender com profissionais experientes e evoluir constantemente na minha carreira.
+Profissional com formação em Tecnólogo em Análise e Desenvolvimento de Sistemas e graduação em Letras Português/Inglês, buscando aplicar e expandir meus conhecimentos na área de desenvolvimento de software. Com experiência em administração escolar e habilidades em programação, incluindo Java, JavaScript, HTML5 e CSS3, e conhecimentos em frameworks como Spring Boot e ferramentas de banco de dados, meu objetivo é contribuir para projetos desafiadores em uma equipe dinâmica, utilizando minhas competências técnicas e habilidades de organização para promover soluções eficientes e inovadoras.
 
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/leandro-de-oliveira-sousa-711110232/)
